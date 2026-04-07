@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seomagicianph04-jpg.github.io/cosmetic-dentistry-c-77919/sitemap.xml
+Sitemap: https://cosmetic-dentistry-c-77919.pages.dev/sitemap.xml
